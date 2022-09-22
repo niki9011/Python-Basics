@@ -4,11 +4,7 @@
 
 ProgrammingBasics with Python - 05.2022
 
-https://softuni.bg/trainings/3748/programming-basics-with-python-may-2022
-
-Курсът "Programming Basics" дава начални умения по програмиране, необходими за всички технологични специалности в Софтуерния университет. Това включва писане на програмен код на начално ниво (basic coding skills), работа със среда за разработка (IDE), използване на променливи и данни, оператори и изрази, работа с конзолата (четене на входни данни и печатане на резултати), използване на условни конструкции (if, if-else) и цикли (for, while, do-while).
-
-Архив обучения
+The "Programming Basics" course provides the initial programming skills necessary for all technology majors at Software University. This includes writing programming code at an entry level (basic coding skills), working with a development environment (IDE), using variables and data, operators and expressions, working with the console (reading input data and printing results), using conditional constructs (if, if-else) and loops (for, while, do-while).
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
