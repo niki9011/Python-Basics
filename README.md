@@ -2,7 +2,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Programming Basics with Python - май 2022
+ProgrammingBasics with Python - 05.2022
 
 https://softuni.bg/trainings/3748/programming-basics-with-python-may-2022
 
@@ -10,7 +10,7 @@ https://softuni.bg/trainings/3748/programming-basics-with-python-may-2022
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Programming Fundamentals with Python - септември 2022
+Programming Fundamentals with Python - 09.2022
 
 https://softuni.bg/trainings/3840/programming-fundamentals-with-python-september-2022
 
