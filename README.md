@@ -14,5 +14,12 @@ Programming Fundamentals with Python - 09.2022
 
 https://softuni.bg/trainings/3840/programming-fundamentals-with-python-september-2022
 
-С "Programming Fundamentals" студентите започват да изучават вътрешната програма на SoftUni за цялостна подготовка на софтуерни инженери. Курсът разглежда фундаментални
-концепции в програмирането, които са основа за ефективното и качествено обучение в професионалните модули. Обучаващите се надграждат знанията, придобити в курса Programming Basics и започват да използват по-сложни похвати и структури от програмирането като: листове, речници, обекти и класове. Изучават се допълнителни технологии, необходими на всеки един софтуерен разработчик, като HTML и CSS, HTTP, побитови операции и други. Разглеждат се основите на web разработката, както и едни от най-разпространените технологии и инструменти, с което курсът успешно изгражда представа у студентите относно предстоящите професионални модули и знанията, които ще придобият от тях, за да станат успешни софтуерни разработчици.
+Basic Syntax, Conditional Statements and Loops
+Data Types and Variables, Booleans, Int, Float, strigns
+List basics - List Definition and Usage, Storing Data, Creating Lists, Accessing Elements, List Manipulations, Looping Through Lists, Searching in Lists
+Functions - Functions Overview, Declaring and Invoking Functions, Return Values, Lambda Functions, Parameters vs Arguments
+Lists Advanced - List Comprehension, List Methods, Advanced Methods, Advanced List Manipulations, The set() Method
+Objects and Classes - Object-Oriented Programming (OOP), Classes, Objects, Class Attributes and Instance Methods
+Dictionaries - Dictionary Definition, Keys and Values, Iterating Through Dictionaries, Existence in Dictionaries, Dictionary Methods
+Text Processing - String Definition, String Manipulation, String Methods
+Regular Expressions - Definition, Syntax, RegEx in Python, RegEx Methods
