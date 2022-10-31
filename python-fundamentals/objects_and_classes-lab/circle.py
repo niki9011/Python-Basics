@@ -8,10 +8,8 @@ class Circle:
     def calculate_circumference(self):
         return Circle.__pi * self.radius * 2
 
-
     def calculate_area(self):
         return Circle.__pi * self.radius ** 2
-
 
     def calculate_area_of_sector(self, angle):
         return Circle.__pi * self.radius * self.radius * (angle / 360)

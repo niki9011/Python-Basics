@@ -1,6 +1,8 @@
 class Party:
+    
     def __init__(self):
         self.names = []
+
 
 party = Party()
 while True:
