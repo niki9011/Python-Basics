@@ -2,8 +2,8 @@ text = input()
 course_program = {}
 
 while ":" in text:
-
     name, id, course = text.split(":")
+    
     if course not in course_program.keys():
         course_program[course] = {}
 
