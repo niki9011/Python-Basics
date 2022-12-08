@@ -1,6 +1,6 @@
 # softuni-pojects
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ProgrammingBasics with Python - 05.2022
 
 https://softuni.bg/trainings/3748/programming-basics-with-python-may-2022
@@ -23,7 +23,7 @@ Dictionaries - Dictionary Definition, Keys and Values, Iterating Through Diction
 Text Processing - String Definition, String Manipulation, String Methods
 Regular Expressions - Definition, Syntax, RegEx in Python, RegEx Methods
 
-.......................................................................................................................................................................
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Python Advanced with Python - 01.2023
 
