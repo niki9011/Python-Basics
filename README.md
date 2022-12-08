@@ -1,7 +1,6 @@
 # softuni-pojects
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ProgrammingBasics with Python - 05.2022
 
 https://softuni.bg/trainings/3748/programming-basics-with-python-may-2022
@@ -23,3 +22,11 @@ Objects and Classes - Object-Oriented Programming (OOP), Classes, Objects, Class
 Dictionaries - Dictionary Definition, Keys and Values, Iterating Through Dictionaries, Existence in Dictionaries, Dictionary Methods
 Text Processing - String Definition, String Manipulation, String Methods
 Regular Expressions - Definition, Syntax, RegEx in Python, RegEx Methods
+
+.......................................................................................................................................................................
+
+Python Advanced with Python - 01.2023
+
+https://softuni.bg/trainings/3848/python-advanced-september-2022#lesson-44813
+
+The Python Advanced course builds on Python language skills by addressing more complex concepts typical of the language. In the course you will learn to create linear data structures, solve algorithmic problems (problem solving skills), work with stacks and queues (Stacks & Queues), tuples and sets (Tuples & Sets), matrices (Multidimensional Lists) , as well as files and directories. Attention will be paid to the functional programming paradigm. You will take a deeper look at recursive functions and functions with multiple arguments. The development environment that will be used by the training team is PyCharm, but each trainee is free to use tools of preference.
