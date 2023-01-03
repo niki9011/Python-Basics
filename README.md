@@ -33,7 +33,7 @@ The Python Advanced course builds on Python language skills by addressing more c
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Python OOP - February 2023
+Python OOP - 02.2023
 
 https://softuni.bg/trainings/3964/python-oop-february-2023
 
