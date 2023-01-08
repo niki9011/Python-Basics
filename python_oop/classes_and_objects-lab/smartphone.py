@@ -14,7 +14,6 @@ class Smartphone:
         self.app_memory = app_memory
         self.total_apps_count = 0
 
-
         if self.memory >= app_memory and self.is_on == True:
             self.memory -= app_memory
             self.apps.append(app)
