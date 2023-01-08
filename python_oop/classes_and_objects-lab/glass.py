@@ -8,8 +8,8 @@ class Glass:
         if sefl.capacity >= sefl.content + ml:
             sefl.content += ml
             return f"Glass filled with {ml} ml"
-        else:
-            return f"Cannot add {ml} ml"
+        
+        return f"Cannot add {ml} ml"
 
     def empty(self):
         self.content = 0
