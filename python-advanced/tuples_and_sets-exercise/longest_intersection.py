@@ -1,22 +1,36 @@
-number = int(input())
+def print_func(result):
+    max_len = 0
+    max_list = []
+    for z in result:
+        if len(z) > max_len:
+            max_len = len(z)
+            max_list = z
 
-result = []
-data1 = set()
-data2 = set()
+    print(f"Longest intersection is {[x for x in max_list]} with length {max_len}")
 
-for _ in range(number):
-    range1, range2 = input().split("-")
-    start, end = int(range1[0]), int(range1[2] + 1)
-    start2, end2 = int(range2[0]), int(range2[2] + 1)
+def longest_intersection(n):
+    result = []
+    set_first = set()
+    set_second = set()
+    for x in range(n):
+        first_index, second_index = input().split("-")
 
-    for num1 in range(start, end + 1):
-        data1.add(num1)
+        first = [int(x) for x in first_index.split(",")]
+        second = [int(j) for j in second_index.split(",")]
 
-    for num2 in range(start2, end2 + 1):
-        data2.add(num2)
+        first_start = first[0]
+        first_stop = first[1]
+        second_start = second[0]
+        second_stop = second[1]
 
-print(data1)
-print(data2)
+        [set_first.add(j) for j in range(first_start, first_stop + 1)]
+        [set_second.add(k) for k in range(second_start, second_stop + 1)]
 
+        result.append(set_first.intersection(set_second))
+        set_first.clear()
+        set_second.clear()
 
+    print_func(result)
 
+n = int(input())
+longest_intersection(n)
